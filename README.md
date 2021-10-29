@@ -18,12 +18,12 @@
 
 ### Expanding Templates with a Custom Rule
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cBijtuLpLRI/0.jpg)](https://www.youtube.com/watch?v=cBijtuLpLRI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ajaf_JrtNjs/0.jpg)](https://www.youtube.com/watch?v=cBijtuLpLRI)
 
 ### Troubleshooting Bazel Build Problems
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OYOQC2kL6Qs/0.jpg)](https://www.youtube.com/watch?v=OYOQC2kL6Qs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ajaf_JrtNjs/0.jpg)](https://www.youtube.com/watch?v=OYOQC2kL6Qs)
 
 ### Using Github Source Code in a Bazel Project
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iWr6Y5oHP18/0.jpg)](https://www.youtube.com/watch?v=iWr6Y5oHP18)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ajaf_JrtNjs/0.jpg)](https://www.youtube.com/watch?v=iWr6Y5oHP18)
